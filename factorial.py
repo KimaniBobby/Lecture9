@@ -9,8 +9,6 @@ def factor():
 
     fact = 1
 
-  
-
     for factor in range (1, n+1):
 
         fact = fact * factor
