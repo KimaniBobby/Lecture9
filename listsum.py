@@ -13,6 +13,11 @@ for n in range(num):
 
 print("Sum of numbers in the list is :", sum(list))
 
+avg = sum(list)/len(list)
+
+print("Average of numbers in the list is :", avg)
+
+
     
 
 
